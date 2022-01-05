@@ -58,8 +58,11 @@ fig{
     height: fit-content;
 }
 .trio{
-    background-image: url(images/background_wood_wood_background.jpg);
+    background-image: url(images/newbg.jpg);
     display: flex;
+    background-size: cover;
     background-repeat: no-repeat;
     margin-top: 80px;}
-    
+    footer p{
+        text-align: center;
+    }
