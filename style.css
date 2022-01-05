@@ -2,4 +2,49 @@ body{
     font-family: 'Oswald', sans-serif;
 font-family: 'Poppins', sans-serif;
 margin: o;
+color: whitesmoke;
 }
+h1{
+    text-align: center;
+    size: 100px;
+
+}
+span{
+    color: #CB4335;
+}
+small{
+    color: wheat;
+}
+
+.split{
+    display: flex;padding: 4%;
+}
+.split img{
+    width: 90%;
+    
+}
+.space{
+    width: 50%;
+}
+fig{
+    color: wheat;
+}
+.flag{
+    padding-left: 8%;
+    padding-top: 7%;
+}
+.background1{
+    background-image: url(images/newbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .poem{
+        text-align: center;
+    }
+    .read-more{
+        text-decoration: none;
+        background-image: linear-gradient( #145A32 #229954 );
+        color:#F5B7B1;
+        padding: 10px 50px;
+        font-weight: 700;
+        border-radius: 5px;}
