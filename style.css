@@ -48,3 +48,18 @@ fig{
         padding: 10px 50px;
         font-weight: 700;
         border-radius: 5px;}
+.dhk-ctg-sylht{
+    color: whitesmoke;
+    display: flex;
+    padding: 4%;
+}
+.dhk-ctg-sylht img{
+    width: 50%;
+    height: fit-content;
+}
+.trio{
+    background-image: url(images/background_wood_wood_background.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    margin-top: 80px;}
+    
